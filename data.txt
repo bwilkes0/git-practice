@@ -1,0 +1,3 @@
+Name: Benjamin
+Age: 27
+Favorite colour: Red
